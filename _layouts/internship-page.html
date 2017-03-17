@@ -32,26 +32,7 @@
     </header>
     <div class="entry-content">
 
-<div class="breadcrumbs">
 
-    <a href="{{ site.url }}">Home</a>
-    >
-
-{% for collection in site.collections %} 
-{% for p in collection.docs %} 
-{% if p.url == page.url %}
-
-<a href="{{ collection.permalink }}">{{ collection.title }}</a>
-
->
-
-{{ page.title }}
-
-{% endif %}
-
-{%endfor%}
-{%endfor%}
-	</div>
 
         <h1>{{ page.location }}</h1>
 	<hr>
