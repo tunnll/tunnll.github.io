@@ -46,7 +46,7 @@
 
 Если вышеописанные условия вам подходят, сделайте следующее:
 
-1. Отправьте email на [internships@tunnll.com](mailto:internships@tunnll.com), содержащий:
+1. Отправьте email на [internship.applications@tunnll.com](mailto:internship.applications@tunnll.com), содержащий:
 
      - Тема письма: Запрос на стажировку (Название стажировки) от (ФИО)
      - Название стажировки (Реклама&PR, Бизнес-администрирование и пр.)

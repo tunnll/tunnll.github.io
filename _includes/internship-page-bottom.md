@@ -46,7 +46,7 @@ We prefer to enhance our team with [generalists](http://www.theguardian.com/care
 
 ### How to apply for this internship 
 
-If you are ok with the terms and conditions of this internship, send an email to [internship.applications@tunnll.com](mailto:internships@tunnll.com), containing:
+If you are ok with the terms and conditions of this internship, send an email to [internship.applications@tunnll.com](mailto:internship.applications@tunnll.com), containing:
 
 
 - Subject: Internship application - (Internship name) - (Your full name)
