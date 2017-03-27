@@ -12,6 +12,9 @@ image:
 
 *We are looking for students and graduates who would like to enter the industry. This internship is flexible, which means that you can continue your studies while doing this internship*
 
+
+*Based on your initial skill level we can adapt the intership to your needs: you can start with simple marketing research tasks or jump directly to creating and implementing digital media campaigns.*
+
 ### Activities
 
 This internship is about learning industry-essential skills and getting hands-on experience. We will teach and help you to pursue the following tasks:

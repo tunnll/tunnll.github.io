@@ -13,6 +13,8 @@ image:
 
 *We are looking for students and graduates who would like to enter the industry. This internship is flexible, which means that you can continue your studies while doing this internship*
 
+*Based on your initial skill level we can adapt the intership to your needs: you can start with simple requirements collection or jump directly to creating designs for real applications.*
+
 ### Activities. 
 
 
