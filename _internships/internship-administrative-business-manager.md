@@ -10,6 +10,14 @@ image:
   creditlink: https://www.flickr.com/photos/ter-burg/
 ---
 
+virtual/remote internship: Grant writer
+grant writing
+proposal writing
+technical writing
+technical documentation
+business writing
+academic writing
+
 *We are looking for students and graduates who would like to enter the industry. This internship is flexible, which means that you can continue your studies while doing this internship*
 
 *Based on your initial skill level we can adapt the intership to your needs: you can start with simple business intelligence research or jump directly to real financing proposals like [SME Instrument](http://ec.europa.eu/easme/en/horizons-2020-sme-instrument).*

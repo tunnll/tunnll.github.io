@@ -12,7 +12,7 @@
 
 ### Financial support
 
-If you are in Sweden, it might happen that you could be eligible for one of the Arbetsförmedlingen's [support programs](https://www.arbetsformedlingen.se/For-arbetssokande/Stod-och-service.html): 
+If you are in Sweden, it might happen that you could be eligible for one of the Arbetsförmedlingen's [support programs](https://www.arbetsformedlingen.se/For-arbetssokande/Stod-och-service.html){:target="_blank"}: 
 
 *   Nystartsjobb
 *   Lönebidrag
@@ -20,7 +20,7 @@ If you are in Sweden, it might happen that you could be eligible for one of the 
 *   Särskilt anställningsstöd
 
 
-If you know that you are eligible, please mention that in your application (you can check your eligibility at your local [Arbetsförmedlingen](http://www.arbetsformedlingen.se/) office).
+If you know that you are eligible, please mention that in your application (you can check your eligibility at your local [Arbetsförmedlingen](http://www.arbetsformedlingen.se/){:target="_blank"} office).
 
 
 
@@ -28,12 +28,12 @@ If you know that you are eligible, please mention that in your application (you 
 
 [We are](/) a team with a flat organizational structure with each team member [doing tasks](http://tunnll.com) he or she really enjoys doing. Please, check out the [Open positions](/jobs/) page to know more about how our team works.
 
-Would like to know even more? You can read about what we do and how we do it in our [social](http://twitter.com/tunnll_) [media accounts](https://www.facebook.com/tunnll).
+Would like to know even more? You can read about what we do and how we do it in our [social](http://twitter.com/tunnll_) media [accounts](https://www.facebook.com/tunnll).
 
 
 ### Whom we expect to see in the team
 
-We prefer to enhance our team with [generalists](http://www.theguardian.com/careers/careers-blog/specialist-generalist-what-do-employers-want), because they tend to perform more efficiently compared to specialist in ever-changing situations. That means that it is absolutely ok if you lack some specific skills in your CV, but it also means that the range of the tasks assigned to you will be very broad.
+We prefer to enhance our team with [generalists](http://www.theguardian.com/careers/careers-blog/specialist-generalist-what-do-employers-want){:target="_blank"}, because they tend to perform more efficiently compared to specialist in ever-changing situations. That means that it is absolutely ok if you lack some specific skills in your CV, but it also means that the range of the tasks assigned to you will be very broad.
 
 
 ### How to apply for this position

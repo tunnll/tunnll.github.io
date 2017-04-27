@@ -10,7 +10,7 @@ image:
   creditlink: http://eol.jsc.nasa.gov/scripts/sseop/photo.pl?mission=ISS015&roll=E&frame=7366
 ---
 
-**Come help us build things that matter**. Tunnll [creates technologies](http://tunnll.com) for the future of the sustainable society, the technologies that make people's lives convenient, reduce carbon emissions and lead to efficient resource usage. We strive to combine the love to state-of-the-art technologies and a working environment that people are happy to work in.
+**Come help us build things that matter**. Tunnll is a startup that [creates technologies](http://tunnll.com) for the future of the sustainable society, the technologies that make people's lives convenient, reduce carbon emissions and lead to efficient resource usage. We strive to combine the love to state-of-the-art technologies and a working environment that people are happy to work in.
 
 * * *
 

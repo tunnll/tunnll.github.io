@@ -22,7 +22,6 @@ Your role as Business Manager will involve developing strong working relationshi
 *   Calculate and forecast net income, net profit, gross-profit, EBIT, ROI, write-offs (deprecation, amortization of various assets) and operating expenses for various innovation projects pursued by the company, including start-up projects
 *   Support the management in KPI and financial budgeting and forecasting
 *   Regular review of KPI performance
-*   Payroll and data input
 *   Ad hoc reporting
 
 ### Requirements
