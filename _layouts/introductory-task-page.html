@@ -38,10 +38,15 @@
 	<hr>
       {{ content }}
 
-	  	{% markdown introductory-task-page-top.md %}
+	  	{% capture introductory-task-page-top %}{% include introductory-task-page-top.md %}{% endcapture %}  
+
+{{ introductory-task-page-top | markdownify }}
+ 
 
       <!-- This is to render a block with links and social icons at the bottom of each job posting -->
-{% markdown introductory-task-page-bottom.md %}          
+{% capture introductory-task-page-bottom %}{% include introductory-task-page-bottom.md %}{% endcapture %}  
+
+{{ introductory-task-page-bottom | markdownify }}       
 <!-- Job posting bottom block END -->
 
       <footer class="entry-meta">
