@@ -80,6 +80,11 @@ collections:
                 permalink: /internships/
                 output: true
                 title: Internships
+        introductory_tasks:
+                permalink: /introductory_tasks/
+                output: true
+                title: Introductory tasks
+                
 
 # Sitemap plugin
 

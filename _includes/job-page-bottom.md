@@ -4,23 +4,10 @@
 
 ### Why this position is cool 
 
-*   **It is remote**, there is no need to visit the office. You are free to work from home or any other location as long as you do your daily reports (tasks completed, time spent, time estimated);
-*   **Flexible schedule**. You can work 9 to 5 or at night or early in the morning - or at any other time slots suitable for you;
+*   **Flexible schedule**. You can work 9 to 5 or at night or early in the morning - or at any other time slots suitable for you as long as overlaps with the working hours of the rest of the team;
 *   **Interesting projects**. You will work on [projects](http://tunnll.com) that matter and which make people's lives better;
 *   **Informal and flexible atmosphere**. Do you have a suit? Good, you do not need one at this position;
 *   **Your voice can be heard**. The more experience you accumulate over time, the more freedom in decision making you will get.
-
-### Financial support
-
-If you are in Sweden, it might happen that you could be eligible for one of the Arbetsförmedlingen's [support programs](https://www.arbetsformedlingen.se/For-arbetssokande/Stod-och-service.html){:target="_blank"}: 
-
-*   Nystartsjobb
-*   Lönebidrag
-*   Instegsjobb
-*   Särskilt anställningsstöd
-
-
-If you know that you are eligible, please mention that in your application (you can check your eligibility at your local [Arbetsförmedlingen](http://www.arbetsformedlingen.se/){:target="_blank"} office).
 
 
 
@@ -28,7 +15,7 @@ If you know that you are eligible, please mention that in your application (you 
 
 [We are](/) a team with a flat organizational structure with each team member [doing tasks](http://tunnll.com) he or she really enjoys doing. Please, check out the [Open positions](/jobs/) page to know more about how our team works.
 
-Would like to know even more? You can read about what we do and how we do it in our [social](http://twitter.com/tunnll_) media [accounts](https://www.facebook.com/tunnll).
+Would like to know even more? You can read about what we do and how we do it by simply searching the Web for "Tunnll". There is a quite a decent amount of news and mentions of Tunnll from various newspapers, media outlets and other sites.
 
 
 ### Whom we expect to see in the team
@@ -38,7 +25,13 @@ We prefer to enhance our team with [generalists](http://www.theguardian.com/care
 
 ### How to apply for this position
 
-Please make sure that your CV proves that you meet all the requirements for the position and send the CV to [hr@tunnll.com](mailto:hr@tunnll.com).
+The only way to apply for this position is to successfully complete an introductory task. Please, proceed to the respective introductory task page in order to apply:
+
+{% for link in site.introductory_tasks %}
+[{{ link.title }}]({{ site.url }}{{ link.url }})
+{% endfor %}
+
+##### We do not accept applications for this position by email, Skype, phone or any other channel except the "introductory task" channel. Please, do not waste anyone's time by simply sending your CV to one of our emails - it will not be processed.
 
 In case you have some disability, please do not hesitate to tell us about that; we will try to adjust to make the interview more comfortable for you.
 

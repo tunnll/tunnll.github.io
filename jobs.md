@@ -16,15 +16,10 @@ image:
 
 # Tunnll is a nice place to work at
 
-We are a distributed startup company and strongly believe that remote work is a more productive way to accomplish [many tasks](http://tunnll.com) from software development to accounting.
+## Your work matters
 
+We are a small startup company with a strong focus on the social impact of our projects. At Tunnll it's more than work, it's how you can help individuals and the society to solve their real life problems.
 
-
-## Your remote workplace
-
-There is absolutely no need to move to another city to visit our office daily, because why should you spend 1-2 hours on [daily commute](http://en.wikipedia.org/wiki/Commuting) when you could use this time to spend with your family or beloved one or just simply [sleep](http://www.bbc.com/news/health-24567412) [more](http://www.theatlantic.com/health/archive/2014/05/thomas-edison-and-the-cult-of-sleep-deprivation/370824/)?
-
-At Tunnll you are free to work from home or any other place of your choice as long as you do your daily reports (tasks completed, time spent, time estimated).
 
 ## Your own schedule
 
@@ -42,9 +37,9 @@ Have you ever dreamed of working without a [boss](http://en.wikipedia.org/wiki/B
 
 # Communication policy
 
-We extensively use our [issue tracker][1] and a [group company chat](http://slack.com) as a replacement for office presence. The issue tracker is a kind of an online portal which serves as an asynchronous communication channel that does not require all the team members to be online at the same time.
+We extensively use our [task tracker][1] as the main [traceability vehicle](https://en.wikipedia.org/wiki/Requirements_traceability). The task tracker is a kind of an online portal which serves as a digital extension to the office communications.
 
-We use Skype/SIP to hold team and personal meetings. In order to sort out urgent issues, we use online chat tools. We do not use email to discuss projects and tasks.
+We use Skype/SIP occasionally to hold team and personal meetings. We do not use email to discuss projects and tasks.
 
 The working language at Tunnll is English.
 
