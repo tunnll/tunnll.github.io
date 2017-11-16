@@ -40,7 +40,21 @@
       {{ content }}
 
       <!-- This is to render a block with links and social icons at the bottom of each job posting -->
-{% markdown job-page-bottom.md %}          
+	  
+	 
+	
+	
+
+
+  
+  
+{% capture job-page-bottom %}{% include job-page-bottom.md %}{% endcapture %}  
+
+{{ job-page-bottom | markdownify }}
+ 
+
+
+    
 <!-- Job posting bottom block END -->
 
       <footer class="entry-meta">

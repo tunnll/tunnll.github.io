@@ -1,5 +1,5 @@
-<!--- This paragraph should follow immediately after the 'requirements' section of a job posting 
----> 
+
+
 
 ### English language requirement
 

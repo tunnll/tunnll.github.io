@@ -4,9 +4,11 @@ disqus_shortname: tunnll
 reading_time:     false 
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://careers.tunnll.com
+#url:              http://careers.tunnll.com
 # local
-#url:              http://localhost:4000
+url:              http://localhost:4000
+
+job_page_bottom: job_page_bottom.md
 
 # Owner/author information
 owner:
@@ -76,10 +78,6 @@ collections:
                 permalink: /jobs/
                 output: true
                 title: Jobs
-        internships:
-                permalink: /internships/
-                output: true
-                title: Internships
         introductory_tasks:
                 permalink: /introductory_tasks/
                 output: true
