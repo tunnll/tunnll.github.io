@@ -1,6 +1,12 @@
 <!--- This paragraph should follow immediately after the 'requirements' section of a job posting 
 ---> 
-*If you do not qualify for this position due to the lack of formal education or experience, you can try a similar [Internship position](/internships/) in our company.*
+
+### English language requirement
+
+Tunnll is a small, but international company. In order to communicate efficiently between team members who can be located in different countries, we need a shared communication channel. The same is true for our communications with partners and customers in various locations. 
+
+The English requirement for this position is English 6 / English Course B / IELTS Academic 6.5 or higher / TOEFL iBT total score of 575. All applicants who wish to apply to a position at Tunnll must document that they have met the English requirements for the position. Even applicants with English as their first language must document that they meet the requirements for the position they have applied for. 
+
 
 ### Why this position is cool 
 
@@ -31,11 +37,8 @@ The only way to apply for this position is to successfully complete an introduct
 [{{ link.title }}]({{ site.url }}{{ link.url }})
 {% endfor %}
 
-##### We do not accept applications for this position by email, Skype, phone or any other channel except the "introductory task" channel. Please, do not waste anyone's time by simply sending your CV to one of our emails - it will not be processed.
 
-In case you have some disability, please do not hesitate to tell us about that; we will try to adjust to make the interview more comfortable for you.
 
-We reserve the right to not respond to any applications that we receive.
 
 ##### This job position remains open until further notice.
 

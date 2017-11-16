@@ -1,7 +1,10 @@
 <!--- This paragraph should follow immediately after the 'introductory task' section of an introductory task page
 ---> 
 
-##### ATTENTION! We do not accept applications for this position by email, Skype, phone or any other channel except the "introductory task" channel. Please, do not waste anyone's time by simply sending your CV to one of our emails - it will not be processed.
+##### We reserve the right to not respond to any applications that we receive.
+
+
+##### ATTENTION! We do not accept applications for this position without a duly implemented introductory task. Please, do not waste anyone's time by simply sending your CV to one of our emails - it will not be processed.
 
 
 

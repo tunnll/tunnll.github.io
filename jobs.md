@@ -54,13 +54,6 @@ The working language at Tunnll is English.
 [{{ link.title }}]({{ site.url }}{{ link.url }})
 {% endfor %}
 
-* * *
-
-# Internships
-
-		{% for link in site.internships %}
-[{{ link.title }}]({{ site.url }}{{ link.url }})
-{% endfor %}
 
 * * *
 

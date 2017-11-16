@@ -12,7 +12,7 @@ image:
 
 As a Graphical/UI/UX Designer you will work end to end through discovery and production in an agile team. You will gather initial requirements; work directly with Users, produce mock ups, build prototypes, etc. You will be someone that is confident at talking with users and the technology teams.
 
-You will be working across a number of different projects such as responsive websites, interactive data visualisation, and B2B tools. The successful UX designer will need a portfolio of creative user experience outcomes and some visual / interface skills.
+You will be working across a number of different projects such as mobile applications, enterprise client applications, responsive websites, interactive data visualisation, and B2B tools. The successful UX designer will need a portfolio of creative user experience outcomes and some visual / interface skills.
 
 ### What you will do:
 
@@ -27,24 +27,14 @@ You will be working across a number of different projects such as responsive web
 
 *   Bachelor’s degree in User Interaction / Graphical Design or other related field;
 *   MSc in User Interaction / Graphical Design or equivalent is preferred and BSc is required;
-*   5+ years of HTML5 and CSS3 Development experience (proven by your portfolio)
+*   2 years of HTML5 and CSS3 Development experience (proven by your portfolio)
 *   Experience taking a thorough brief and working autonomously while being able to lias with stakeholders and the team to specific project / design guidelines.
 *   Adobe Creative Suite
 *   GIMP
 *   Inkscape
 *   User Interface Design
 *   Responsive Design
-*   Illustration
-*   HTML5, CSS3 & SASS
-*   Design Patterns
 *   Mobile First Development
-*   Continuous Delivery
-*   Scrum & Kanban
-*   Willing to work as part of a team which consists of experienced members as well as [interns](/internship-graphical-user-experience-user-interface-designer/);
-*   Understanding of Design Concepts 
-*   Understanding of GUI Design
-*   Strong communication skills;
-*   English 6 / English Course B / IELTS Academic 6.5 or higher / TOEFL iBT total score of 575. All applicants who wish to apply to a position at Tunnll must document that they have met the English requirements for the position. Even applicants with English as their first language must document that they meet the requirements for the position they have applied for. 
 
 
 
