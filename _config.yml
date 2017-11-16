@@ -1,0 +1,90 @@
+title:            Tunnll
+description:      Smart transportation systems 
+disqus_shortname: tunnll 
+reading_time:     false 
+words_per_minute: 200
+#Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://careers.tunnll.com
+# local
+#url:              http://localhost:4000
+
+# Owner/author information
+owner:
+  name:           Tunnll 
+  avatar:         
+  bio:            "Tunnll builds ICT solutions around satellite navigation, digital maps and scheduling optimization for the logistics, transportation and navigation industries."
+  email:          hello@tunnll.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: tunnll_
+  facebook: tunnll
+  github:         
+  stackexchange:  
+  linkedin:       
+  instagram: 
+  flickr:         
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:  
+
+# Background image to be tiled on all pages
+background: 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Contact 
+    url: /contact
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      false 
+highlighter: pygments
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+collections:
+        jobs:
+                permalink: /jobs/
+                output: true
+                title: Jobs
+        internships:
+                permalink: /internships/
+                output: true
+                title: Internships
+        introductory_tasks:
+                permalink: /introductory_tasks/
+                output: true
+                title: Introductory tasks
+                
+
+# Sitemap plugin
+
