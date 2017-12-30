@@ -1,12 +1,35 @@
+### General requirements
 
+If you would like to join Tunnll's team you are able to demonstrate:
 
+- Your English language proficiency. Tunnll is a small, but international company. In order to communicate efficiently between team members who can be located in different countries, we need a shared communication channel. The same is true for our communications with partners and customers in various locations. The English requirement for this position is English 6 / English Course B / IELTS Academic 6.5 or higher / TOEFL iBT total score of 575. All applicants who wish to apply to a position at Tunnll must document that they have met the English requirements for the position. Even applicants with English as their first language must document that they meet the requirements for the position they have applied for. 
+- Your deep understanding of how remote and distributed teams are organized and how they are different from co-located teams. We highly recommend books on the topic: [The Ultimate Guide to Remote Work by Zapier](https://zapier.com/learn/remote-work/), [No Excuses: A Definitive Guide to Building a Remote Team by by HubStaff](https://blog.hubstaff.com/remote-team-management-book), [DRiVE by RemoteWorkHub](https://blog.hubstaff.com/remote-team-management-book), [Remote by Basecamp](https://basecamp.com/books/remote) and [The Art of Staying Productive even Across Distance by Wrike](The Art of Staying Productive Even Across Distance).
+- At least one year of experience working in a remote and distributed team by providing a reference letter from the previous employer.
+- Your business communication profficiency in a remote and distributed working environment (a certificate of completion of any related online course like [Communication in Virtual and Mobile Work](https://www.canvas.net/browse/turku-university/courses/virtual-and-mobile-communication) or [Communication in the 21st Century Workplace](https://www.coursera.org/learn/communication-in-the-workplace?siteID=.GqSdLGGurk-XmIV64oFHjUjTF6yE8vVbg) is required).
+- Your proficiency in using communication tools like Microsoft Planner, Microsoft Teams and Outlook Groups (certificates of completion of any [related online course](https://www.lynda.com/Planner-tutorials/Microsoft-Planner-Essential-Training/622057-2.html) like [Planner - Organizing a team’s tasks](https://mooc.office365-training.com/en/training-resources/organizing-a-team-s-tasks), [Teams - Communicate as a team](https://mooc.office365-training.com/en/training-courses/teams-communicate-as-a-team) and [Groups - Increase your group work capabilities](https://mooc.office365-training.com/en/training-courses/groups-increase-your-group-work-capabilities) are required).
 
-### English language requirement
+### Workplace requirements
 
-Tunnll is a small, but international company. In order to communicate efficiently between team members who can be located in different countries, we need a shared communication channel. The same is true for our communications with partners and customers in various locations. 
+All remote team members in Tunnll are required to organize their workplaces to meet the following requirements:
 
-The English requirement for this position is English 6 / English Course B / IELTS Academic 6.5 or higher / TOEFL iBT total score of 575. All applicants who wish to apply to a position at Tunnll must document that they have met the English requirements for the position. Even applicants with English as their first language must document that they meet the requirements for the position they have applied for. 
+- The workplace should be a single, ideally separated room with no interruptions by noises, other people, etc.
+- The workplace should be connected to a stable high-speed internet connection (at least 100 MB/s) ideally backed up with a secondary connection for redundancy.
+- The working computer should have at least 16GB of RAM for engineers and designers and at least 8GB for the rest of roles.
+- The working computer should be properly maintained on a regular basis (security updates, disk cleanup, antivirus checks, dust cleaning, etc.).
 
+### Salary levels
+
+#### Initial proposal
+
+The size of the proposed compensation may depend on your experience, demonstrated professional skills and your communication skills. For entry-level positions (no or small experience) we may find it reasonable to propose a level of compensation which is typical for your current location ([example](https://www.payscale.com/research/ES/Job=Software_Developer/Salary/8224e5c5/Entry-Level-Barcelona)).
+
+#### Growing the compensation rate as we work together
+
+We are interested in investing in long-term relationships and that is why all compensations are subject to regular increases based on factors like gained experience, overall time spent in the company, inumber of new books read over the working period and number of the successfully completed online courses. 
+
+### Remote or not?
+
+Tunnll is a 100% remote-friendly workplace, but if your preference is team work in a modern and comfortable office in a great location, we would be glad to accommodate you in one of our focus locations (currently Barcelona and Madrid in Spain and Milton Keynes in the UK).
 
 ### Why this position is cool 
 
@@ -14,7 +37,6 @@ The English requirement for this position is English 6 / English Course B / IELT
 *   **Interesting projects**. You will work on [projects](http://tunnll.com) that matter and which make people's lives better;
 *   **Informal and flexible atmosphere**. Do you have a suit? Good, you do not need one at this position;
 *   **Your voice can be heard**. The more experience you accumulate over time, the more freedom in decision making you will get.
-
 
 
 ### Why you should join 
