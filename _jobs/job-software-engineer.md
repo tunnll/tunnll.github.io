@@ -19,21 +19,23 @@ image:
 
 ### What you will do:
 
-*   Language-agnostic coding (Python, Java, Ruby, JavaScript, Erlang, etc.);
+*   Language-agnostic coding (Python, Java, C#, Ruby, JavaScript, Erlang, etc.);
 *   Reasearch-driven development: researching and using new languages and technologies to implement projects in the best possible way;
-*   Test-Driven Development;
+*   Test-Driven Development and BDD;
 *   Extensive use of [Continuous Integration and Continuous Delivery practices](https://continuousdelivery.com/);
 *   git branching and deployment with git;
 *   Agile practices in software development;
 *   Extensive knowledge transfer between experienced developers and interns.
 
-### Minimum qualifications:
+### Minimal qualifications:
 
 *   Your engineering attitude is more important than the language stack you are experienced with;
 *   Bachelor’s degree in Computer Science, Software Engineering, Information Technology, Computer Engineering or other related field;
-*   MS in Computer Science or equivalent is preferred and BS is required;
-*   Strong communication skills;
+*   MSc in Computer Science or equivalent is preferred and BSc is required;
+*   A certificate of completion of [Programming in C# - Exam 70-483 by Microsoft](https://www.microsoft.com/en-us/learning/exam-70-483.aspx) is required (this can be obtained by taking the [Programming in C# Jump Start](https://mva.microsoft.com/en-us/training-courses/programming-in-c-jump-start-14254?l=j0iuozSfB_6900115888) course).
+*   Xamarin Certified Mobile Professional badge is required.
+*   A certificate of completion of a course like [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices?siteID=.GqSdLGGurk-pc2gmDRjPTQBK2MAjR63Wg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=*GqSdLGGurk) or similar is required (Agile, Scrum, etc.).
+*   You should demonstrate a completed, delivered, shipped and live mobile application (Google Play, Apple Store) or a web application (single page application, classic CRUD application or a progressive web app).
+*   A certificate of completion of a course like [Product Management with Lean, Agile and System Design Thinking (edX)](https://www.mooc-list.com/course/product-management-lean-agile-and-system-design-thinking-edx) or other Lean Product Development-related course is preferred.
 *   Willing to work as part of a team which consists of experienced developers as well as interns;
-*   At least 2 years of experience in one of the following languages: Python/Ruby/Java/Erlang (industry-grade production-ready systems);
-*   The most important requirement is your ability to learn new technologies and implement them in your work;
-*   Experience with git, Linux shell, Chef, Docker, *NIX administration.
+*   The most important requirement is your ability to learn new technologies and implement them in your work.
