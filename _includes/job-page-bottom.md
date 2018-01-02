@@ -10,7 +10,7 @@ If you would like to join Tunnll's team you are able to demonstrate:
 
 ### Workplace requirements
 
-All remote team members in Tunnll are required to organize their workplaces to meet the following requirements:
+Remote and distributed teams enjoy great flexibility in terms of where from and when the team members do their work. You can even work with your laptop [from a beach in Thailand](http://www.webworktravel.com/become-digital-nomad/), but it is very important that the workplace conditions stay reliable and uninterrupted. All remote team members in Tunnll are required to organize their workplaces to meet the following requirements:
 
 - The workplace should be a single, ideally separated room with no interruptions by noises, other people, etc.
 - The workplace should be connected to a stable high-speed internet connection (at least 100 MB/s) ideally backed up with a secondary connection for redundancy.
@@ -25,7 +25,7 @@ The size of the proposed compensation may depend on your experience, demonstrate
 
 #### Growing the compensation rate as we work together
 
-We are interested in investing in long-term relationships and that is why all compensations are subject to regular increases based on factors like gained experience, overall time spent in the company, inumber of new books read over the working period and number of the successfully completed online courses. 
+We are interested in investing in long-term relationships and that is why all compensations are subject to regular increases based on factors like gained experience, overall time spent in the company, number of new books read over the working period and number of the successfully completed online courses. 
 
 ### Remote or not?
 
@@ -53,14 +53,7 @@ We prefer to enhance our team with [generalists](http://www.theguardian.com/care
 
 ### How to apply for this position
 
-The only way to apply for this position is to successfully complete an introductory task. Please, proceed to the respective introductory task page in order to apply:
-
-{% for link in site.introductory_tasks %}
-[{{ link.title }}]({{ site.url }}{{ link.url }})
-{% endfor %}
-
-
-
+The only way to apply for this position is to successfully complete a web form. Please, proceed to the respective web form in order to apply:
 
 ##### This job position remains open until further notice.
 
