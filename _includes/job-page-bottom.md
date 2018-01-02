@@ -6,7 +6,7 @@ If you would like to join Tunnll's team you are able to demonstrate:
 - Your deep understanding of how remote and distributed teams are organized and how they are different from co-located teams. We highly recommend books on the topic: [The Ultimate Guide to Remote Work by Zapier](https://zapier.com/learn/remote-work/), [No Excuses: A Definitive Guide to Building a Remote Team by by HubStaff](https://blog.hubstaff.com/remote-team-management-book), [DRiVE by RemoteWorkHub](https://blog.hubstaff.com/remote-team-management-book), [Remote by Basecamp](https://basecamp.com/books/remote) and [The Art of Staying Productive even Across Distance by Wrike](The Art of Staying Productive Even Across Distance).
 - At least one year of experience working in a remote and distributed team by providing a reference letter from the previous employer.
 - Your business communication profficiency in a remote and distributed working environment (a certificate of completion of any related online course like [Communication in Virtual and Mobile Work](https://www.canvas.net/browse/turku-university/courses/virtual-and-mobile-communication) or [Communication in the 21st Century Workplace](https://www.coursera.org/learn/communication-in-the-workplace?siteID=.GqSdLGGurk-XmIV64oFHjUjTF6yE8vVbg) is required).
-- Your proficiency in using communication tools like Microsoft Planner, Microsoft Teams and Outlook Groups (certificates of completion of any [related online course](https://www.lynda.com/Planner-tutorials/Microsoft-Planner-Essential-Training/622057-2.html) like [Planner - Organizing a team’s tasks](https://mooc.office365-training.com/en/training-resources/organizing-a-team-s-tasks), [Teams - Communicate as a team](https://mooc.office365-training.com/en/training-courses/teams-communicate-as-a-team) and [Groups - Increase your group work capabilities](https://mooc.office365-training.com/en/training-courses/groups-increase-your-group-work-capabilities) are required).
+- Your proficiency in using communication tools like [Microsoft Planner](https://channel9.msdn.com//events/Ignite/2016/BRK1006/), Microsoft Teams and Outlook Groups (certificates of completion of any [related online course](https://www.lynda.com/Planner-tutorials/Microsoft-Planner-Essential-Training/622057-2.html) like [Planner - Organizing a team’s tasks](https://mooc.office365-training.com/en/training-resources/organizing-a-team-s-tasks), [Teams - Communicate as a team](https://mooc.office365-training.com/en/training-courses/teams-communicate-as-a-team) and [Groups - Increase your group work capabilities](https://mooc.office365-training.com/en/training-courses/groups-increase-your-group-work-capabilities) are required).
 
 ### Workplace requirements
 
@@ -17,7 +17,7 @@ Remote and distributed teams enjoy great flexibility in terms of where from and 
 - The working computer should have at least 16GB of RAM for engineers and designers and at least 8GB for the rest of roles.
 - The working computer should be properly maintained on a regular basis (security updates, disk cleanup, antivirus checks, dust cleaning, etc.).
 
-### Salary levels
+### Compensation levels
 
 #### Initial proposal
 
