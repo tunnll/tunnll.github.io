@@ -36,7 +36,7 @@ Tunnll is a 100% remote-friendly workplace, but if your preference is team work 
 ### Why this position is cool 
 
 *   **Remote from day one**. Tunnll has been a remote setup from day one. This means we know what is good about being remote and how to overcome the shortcomings of the distributed setup.
-*   **Flexible schedule**. You can work 9 to 5 or at night or early in the morning - or at any other time slots suitable for you as long as overlaps with the working hours of the rest of the team;
+*   **Flexible schedule**. You can work 9 to 5 or at night or early in the morning - or at any other time slots suitable for you as long as they overlap with the working hours of the rest of the team;
 *   **Interesting projects**. You will work on [projects](http://tunnll.com) that matter and which make people's lives better;
 *   **High-quality tools provided**. We provide all team members with full access to the high-quality productivity and development products from Microsoft (Office 365, SharePoint, etc.).
 *   **Informal and flexible atmosphere**. Do you have a suit? Good, you do not need one at this position;

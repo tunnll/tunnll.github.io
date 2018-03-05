@@ -34,7 +34,7 @@ image:
 *   MSc in Computer Science or equivalent is preferred and BSc is required;
 *   A certificate of completion of [Programming in C# - Exam 70-483 by Microsoft](https://www.microsoft.com/en-us/learning/exam-70-483.aspx) is required (this can be obtained by taking the [Programming in C# Jump Start](https://mva.microsoft.com/en-us/training-courses/programming-in-c-jump-start-14254?l=j0iuozSfB_6900115888) course).
 *   Xamarin Certified Mobile Professional badge is required.
-*   A certificate of completion of a set of online courses like [Agile Development Specialization](Agile Development Specialization) or similar is required.
+*   A certificate of completion of a set of online courses like [Agile Development Specialization](https://www.coursera.org/specializations/agile-development) or similar is required.
 *   You should demonstrate a completed, delivered, shipped and live mobile application (Google Play, Apple Store) or a web application (single page application, classic CRUD application or a progressive web app).
 *   A certificate of completion of a course like [Product Management with Lean, Agile and System Design Thinking (edX)](https://www.mooc-list.com/course/product-management-lean-agile-and-system-design-thinking-edx) or other Lean Product Development-related course is preferred.
 *   Willing to work as part of a team which consists of experienced developers as well as interns;

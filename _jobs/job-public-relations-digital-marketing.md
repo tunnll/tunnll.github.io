@@ -37,7 +37,10 @@ You will be responsible for establishing and executing a number of international
 
 The successful candidate will be an excellent writer with a great eye for details:
 
+*   MSc in Marketing/Communications or equivalent is preferred and BSc is required;
 *   At least 1+ years of experience in a PR/communications capacity and a strong academic background. Journalistic experience is highly desirable.
+*   A certificate of completion of a set of courses (specialization) like [Digital Marketing](https://www.coursera.org/specializations/digital-marketing) or a similar set of courses is required (this can be replaced by your BSc or MSc degree courses).
+*   A certificate of completion of a set of courses (specialization) like [Public Relations for Digital Media](https://www.coursera.org/specializations/public-relations) or a similar set of courses is required (this can be replaced by your BSc or MSc degree courses).
 *   Strong PR focussed project management skills (blogs, event PR, launches, sponsorship).
 *   Passionate about and keeping up to date with digital trends is crucial – we want our staff to constantly educate and push themselves.
 *   Have a general understanding and interest of the digital landscape.
