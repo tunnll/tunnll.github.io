@@ -25,12 +25,11 @@ You will be working across a number of different projects such as mobile applica
 
 ### Minimal qualifications:
 
-*   Bachelor’s degree in User Interaction / Graphical Design or other related field;
 *   MSc in User Interaction / Graphical Design or equivalent is preferred and BSc is required;
-*   A certificate of completion of a set of online courses like [Interaction Design Specialization](https://www.coursera.org/specializations/interaction-design) or [User Interface Design Specialization](https://www.coursera.org/specializations/user-interface-design).
+*   A certificate of completion of a set of online courses like [Interaction Design Specialization](https://www.coursera.org/specializations/interaction-design) or [User Interface Design Specialization](https://www.coursera.org/specializations/user-interface-design) is required.
 *   A certificate of completion of a set of online courses like [Agile Development Specialization](Agile Development Specialization) or similar is required.
 *   A certificate of completion of a course like [Product Management with Lean, Agile and System Design Thinking (edX)](https://www.mooc-list.com/course/product-management-lean-agile-and-system-design-thinking-edx) or other Lean Product Development-related course is preferred.
-*   You should demonstrate a completed, delivered, shipped and live mobile application (Google Play, Apple Store) or a web application (single page application, classic CRUD application or a progressive web app) which you have planned, prepared, developed and created UX and/or UI design for. This can be complemented with other design artefacts like personas documents, user and job stories, paper and high-fidelity prototypes, etc.
+*   You should demonstrate a completed, delivered, shipped and live mobile application (Google Play, Apple Store) or a web application (single page application, classic CRUD application or a progressive web app) which you have planned, prepared, developed and created a UX and/or UI design for. This can be complemented with other design artefacts like personas documents, user and job stories, paper and high-fidelity prototypes, etc.
 
 
 

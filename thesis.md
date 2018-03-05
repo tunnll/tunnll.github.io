@@ -45,4 +45,7 @@ Please, send an email to [thesis@tunnll.com](mailto:thesis@tunnll.com) with the 
 *   Name of your program and year
 *   The topic you are interested in
 *   Describe the university requirements in regards to the thesis paper (which kind of agreement should be signed with the company, what is the duration of the thesis course, deadlines, etc.).
-
+*   From which date are you ready to start?
+*   What is the deadline for your thesis project?
+*   Is this a research-only thesis project or a project under which you are expected to create/develop something?
+*   Please, state your questions in regards to the company and this thesis opportunity.

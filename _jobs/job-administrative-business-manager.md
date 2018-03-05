@@ -18,32 +18,24 @@ Your role as Business Manager will involve developing strong working relationshi
 
 ### Key Responsibilities
 
-*   Research, plan, write and review proposals for funding calls and grants like [Horizon 2020](http://ec.europa.eu/programmes/horizon2020/node/115) and similar
+*   Build business cases for various projects of the company (research and analyze the market, forecast potential revenues, identify risks, etc.)
+*   Facilitate smooth communication in our distritubed organization by applying your excelent [cloud file management](https://en.wikipedia.org/wiki/OneDrive), [Office](https://en.wikipedia.org/wiki/Office_365https://en.wikipedia.org/wiki/Office_365) and [Outlook](https://en.wikipedia.org/wiki/Microsoft_Outlook) skills.
 *   Calculate and forecast net income, net profit, gross-profit, EBIT, ROI, write-offs (deprecation, amortization of various assets) and operating expenses for various innovation projects pursued by the company, including start-up projects
+*   Facilitate project launches by building detailed preparation and implementation plans
 *   Support the management in KPI and financial budgeting and forecasting
 *   Regular review of KPI performance
 *   Ad hoc reporting
 
 ### Requirements
 
-*   a BSc or MSc degree in Business, Economics, Accounting or related areas
-*   5+ years experience as a Business Manager or a similar position
-*   Significant experience of delivering analysis and business consultancy, particularly in the early pre projects stages of the life cycle
-*   Experience of working on multiple projects and priorities, with different stakeholders
-*   Experience of building strong, credible relationships with senior stakeholders
-*   Experience of working within financial services is desirable
-*   Analytical mind set, capability to interpret data and drive business conclusions
-*   Optimization and BI experience from with in CRM and business financial analysis 
-*   Ability to work across functions and locations
-*   Ability to present a sound business case and findings as a result of interpreting large amounts of data
-*   Understanding of financial reporting including income statements and balance sheets
-*   Good knowledge of EXCEL, Word & Microsoft Office (or LibreOffice)
-*   Excellent communication skills both written & verbal
-*   Planning & completing a diverse range of assignments
-*   The candidate must be able to operate without supervision Sage Line 50 accounting software and Quickbooks Pro in order to maintain customer records.
-*   Willing to work as part of a team which consists of experienced members as well as [interns](/internship-administrative-business-manager/);
-*   Be driven to progress a career and grow a team
-*   Excellent touch-typing skills
-*   English 6 / English Course B / IELTS Academic 6.5 or higher / TOEFL iBT total score of 575. All applicants who wish to apply to a position at Tunnll must document that they have met the English requirements for the position. Even applicants with English as their first language must document that they meet the requirements for the position they have applied for. 
+*   a BSc or MSc degree in Business, Economics, Accounting or related areas.
+*   Significant experience of delivering analysis and business consultancy, particularly in the early pre projects stages of the life cycle.
+*   A certificate of completion of a set of online courses like [Microsoft Office Specialist](https://www.microsoft.com/en-us/learning/microsoft-office-specialist-certification-2016.aspx) or similar is required.
+*   A certificate of completion of a course like [Business Writing](https://www.coursera.org/learn/writing-for-business) or other Business Writing-related course is required.
+*   Ability to present a sound business case and findings as a result of interpreting large amounts of data.
+*   Experience of working on multiple projects and priorities, with different stakeholders.
+*   Analytical mind set, capability to interpret data and drive business conclusions.
+*   Ability to work across functions and locations.
+*   Excellent touch-typing skills.
 
 

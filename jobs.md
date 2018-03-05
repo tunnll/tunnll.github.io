@@ -39,11 +39,11 @@ Have you ever dreamed of working without a [boss](http://en.wikipedia.org/wiki/B
 
 We extensively use our [task tracker][1] as the main [traceability vehicle](https://en.wikipedia.org/wiki/Requirements_traceability). The task tracker is a kind of an online portal which serves as a digital extension to the office communications.
 
-We use Skype/SIP occasionally to hold team and personal meetings. We do not use email to discuss projects and tasks.
+We use Skype to hold team and personal meetings. If or when a team member is not available, we use the [Outlook Groups](https://en.wikipedia.org/wiki/Outlook_Groups) group email software to communicate asyncrhonously. Also, we use [real-time group chat](https://en.wikipedia.org/wiki/Microsoft_Teams) only for urgent communication; we prefer to [not use Slack-like tools](https://abe-winter.github.io/plea's/help/2018/02/11/slack.html) on a daily basis.
 
 The working language at Tunnll is English.
 
- [1]: http://redmine.org
+ [1]: https://en.wikipedia.org/wiki/Microsoft_Visual_Studio#Team_Services
 
 * * *
 
