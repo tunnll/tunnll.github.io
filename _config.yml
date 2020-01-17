@@ -1,88 +1,113 @@
-title:            Tunnll
-description:      Smart transportation systems 
-disqus_shortname: tunnll 
-reading_time:     false 
-words_per_minute: 200
-#Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://careers.tunnll.com
-# local
-#url:              http://localhost:4000
+#page title
+page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
-job_page_bottom: job_page_bottom.md
+# App Info
+ios_app_id                                : 1492672473 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-# Owner/author information
-owner:
-  name:           Tunnll 
-  avatar:         
-  bio:            "Tunnll builds ICT solutions around satellite navigation, digital maps and scheduling optimization for the logistics, transportation and navigation industries."
-  email:          hello@tunnll.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter: tunnll_
-  facebook: tunnll
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram: 
-  flickr:         
-  tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  # google plus id, include the '+', eg +mmistakes
-  google_plus:  
+appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.Tunnll.Passenger                                          # Enter Google Play Store URL.
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-# Background image to be tiled on all pages
-background: 
+app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : No more waiting at the bus stop.
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Contact 
-    url: /contact
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      false 
-highlighter: pygments
-markdown:    kramdown
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+# Information About Yourself
+your_name                                 : Skanatek AB 
+your_link                                 : https://skanatek.se
+your_city                                 : Sweden 
+email_address                             : hello@tunnll.com
+facebook_username                         :                                           
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : 
+youtube_username                          :
 
-# Amount of post to show on home page
-paginate: 5
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: true
 
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+  - title                                 : Use your phone to REQUEST a bus 
+    description                           : What's the point of checking where the bus is if it's too far away? With Tunnll you can ORDER the bus to pick you up. 
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : No timetable 
+    description                           : With Tunnll you decide when you use the bus, there is no timetable to follow. 
+    fontawesome_icon_name                 : adjust
+  
+  - title                                 : You are covered from A to B 
+    description                           : With Tunnll there is no need to deal with schedules, bus line numbers and bus stop locations. Just order a Tunnll bus and Tunnll app will guide you through all the stages of your trip.
+    fontawesome_icon_name                 : link
+
+
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.5
+
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+
+body_background_color                     : "#ffffff"
+
+link_color                                : "#1d63ea"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
+
+feature_icons_foreground_color            : "#1d63ea"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
 
 collections:
-        jobs:
-                permalink: /jobs/
-                output: true
-                title: Jobs
-        introductory_tasks:
-                permalink: /introductory_tasks/
-                output: true
-                title: Introductory tasks
-                
+  pages:
+    output: true
+    permalink: /:path/
 
-# Sitemap plugin
-
+# Markdown rendering
+markdown: kramdown
